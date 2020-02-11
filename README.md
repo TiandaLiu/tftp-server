@@ -5,7 +5,7 @@
 
 #### For example, to run TFTPServer on port 8080 with timeout 5000ms:
 
-    $ python3 TFTPServer.py 8080 5000ms
+    $ python3 TFTPServer.py 8080 5000
 
 ## TFTP Client setup:
 ### To open the TFTP client:
